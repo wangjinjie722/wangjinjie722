@@ -5,8 +5,6 @@
 **wangjinjie722/wangjinjie722** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-***
-
 This is Kai, a second-year graduate student @ UCSD.
 
 - 🔭 I’m currently working on machine learning and data science # open to work
